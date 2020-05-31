@@ -36,5 +36,7 @@
 
 7. Code, pre, and br ex: code.htm
 
+8. Subscripts and Superscripts, ex: subscripts_small_texts.htm
+
 
  
