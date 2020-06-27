@@ -38,9 +38,9 @@
 
 8. Subscripts and Superscripts, ex: subscripts_small_texts.htm
 
-9. Learning the how to newer html tags for learning -> src= https://github.com/brianblaze14/html-essential-training/tree/master/html/power_of_html"
+9. Learning the how to use newer html tags for learning -> src= "https://github.com/brianblaze14/html-essential-training/tree/master/html/power_of_html";
 
-10. Links -> path
+10. Links -> path src = "https://github.com/brianblaze14/html-essential-training/tree/master/html/links";
 
 
  
