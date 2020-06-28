@@ -88,13 +88,21 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) The script element: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Tells to load a javascript file </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - General syntax `<script src="my-script.js"></script>` </br>
-&nbsp;&nbsp;&nbsp; c) The body element - Contains the information and content that will be displayed on the page
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) main - wraps around the main content of the page
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) header - Used to mark the page where content is header
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) footer - Used to mark the page where content is footer
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) article - araped around any instance of an article
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5) section - wrap around the sections of contents
+&nbsp;&nbsp;&nbsp; c) The body element - Contains the information and content that will be displayed on the page</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) main - wraps around the main content of the page</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) header - Used to mark the page where content is header</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) footer - Used to mark the page where content is footer</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) article - araped around any instance of an article</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5) section - wrap around the sections of contents</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6) aside - Marks content that is off to the side or not the main attraction
 
-- Form basics, example: 
+- Form basics, example: https://github.com/brianblaze14/html-essential-training/blob/master/html_page/01_form_element.htm
+- Different types of form basic elements, examples: 
+- Tables basics, example: `<table>`,`<tr>`, `<th>`, `<td>`, example: 
  
+
+## Websites to refer for the Web development: Specifications, Web Standards HTML 5
+- https://developer.mozilla.org/en-US/
+- https://html.spec.whatwg.org/
+- https://html.spec.whatwg.org/dev/#toc-semantics - dev version
+- Accessibilty websites: https://www.w3.org/WAI/standards-guidelines/wcag/
