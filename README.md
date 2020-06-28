@@ -76,6 +76,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) The meta element: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Only used inside the head element </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Conveys metadata about the page </br>
-![alt text](https://github.com/brianblaze14/html-essential-training/blob/master/images/Meta_data.PNG)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](https://github.com/brianblaze14/html-essential-training/blob/master/images/Meta_data.PNG)</br>
 &nbsp;&nbsp;&nbsp; c) The body element - Contains the information and content that will be displayed on the page
  
