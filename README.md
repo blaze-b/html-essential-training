@@ -65,5 +65,16 @@
 
 ## HTML Page development
 
+- A Web consist of the following flows:</br>
+&nbsp;&nbsp;&nbsp; a) URL</br>
+&nbsp;&nbsp;&nbsp; b) Request </br>
+&nbsp;&nbsp;&nbsp; c) HTML file with extension .htm or .html </br>
 
+- HTML file - The first file that's returned in response to a request for a webpage and is headquatered </br>
+&nbsp;&nbsp;&nbsp; a) The doctype declaration - Declares which era this HTML file is from </br>
+&nbsp;&nbsp;&nbsp; b) The head element - Contains information the browser needs to know, though it won't be displayed on the page </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) The meta element: </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) Only used inside the head element </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Conveys metadata about the page </br>
+&nbsp;&nbsp;&nbsp; c) The body element - Contains the information and content that will be displayed on the page
  
