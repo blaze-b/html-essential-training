@@ -72,9 +72,10 @@
 
 - HTML file - The first file that's returned in response to a request for a webpage and is headquatered </br>
 &nbsp;&nbsp;&nbsp; a) The doctype declaration - Declares which era this HTML file is from </br>
-&nbsp;&nbsp;&nbsp; b) The head element - Contains information the browser needs to know, though it won't be displayed on the page </br>
+&nbsp;&nbsp;&nbsp; b) The head element - Contains information the browser needs to know, though it won't be displayed </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) The meta element: </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) Only used inside the head element </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Conveys metadata about the page </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Only used inside the head element </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Conveys metadata about the page </br>
+![alt text](https://github.com/brianblaze14/html-essential-training/blob/master/images/Meta_data.PNG)</br>
 &nbsp;&nbsp;&nbsp; c) The body element - Contains the information and content that will be displayed on the page
  
