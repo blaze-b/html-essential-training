@@ -76,11 +76,25 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) The meta element: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Only used inside the head element </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Conveys metadata about the page </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Synatax: `<meta name="viewport" content="width=device-width, initial-scale=1.0">`</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Synatax: `<meta name="description" content="A description that this site will show up in search engine results">`</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](https://github.com/brianblaze14/html-essential-training/blob/master/images/Meta_data.PNG)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) The link element: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - It links to a range of other assets we want to load i.e css, fonts etc </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) The rel element: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Tells the browser  whcih kind of asset it is </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - href is used to provide the URL to the asset </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![alt text](https://github.com/brianblaze14/html-essential-training/blob/master/images/links.PNG)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) The script element: </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Tells to load a javascript file </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - General syntax `<script src="my-script.js"></script>` </br>
 &nbsp;&nbsp;&nbsp; c) The body element - Contains the information and content that will be displayed on the page
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) main - wraps around the main content of the page
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) header - Used to mark the page where content is header
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) footer - Used to mark the page where content is footer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) article - araped around any instance of an article
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5) section - wrap around the sections of contents
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6) aside - Marks content that is off to the side or not the main attraction
+
+- Form basics, example: 
  
