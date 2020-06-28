@@ -42,5 +42,16 @@
 
 10. Links -> path src = "https://github.com/brianblaze14/html-essential-training/tree/master/html/links";
 
+11. Supporting languages ->lang="en-US" American English, lang="en-GB" Brittan English, "color" vs. "colour" usage </br>
+&nbsp;&nbsp;&nbsp;&nbsp; Attributes -> Langauage, Script, Attributes </br>
+&nbsp;&nbsp;&nbsp;&nbsp; dir attribute is the one used specifying the direction for text to be written </br>
+&nbsp;&nbsp;&nbsp;&nbsp; &lt;html lang="en-US"&gt; </br>
+&nbsp;&nbsp;&nbsp;&nbsp; &lt;html lang="en-US" dir="ltr"&gt; </br>
+&nbsp;&nbsp;&nbsp;&nbsp; &lt;html lang="ar" dir="rtl"&gt; </br>
+     
+&nbsp;&nbsp;&nbsp;&nbsp; chanset Attribute --> </br>
+&nbsp;&nbsp;&nbsp;&nbsp; a) ASCII - An encoding standard limited to 128 characters, focused on the needs of certain European languages</br>
+&nbsp;&nbsp;&nbsp;&nbsp; b) Unocode - An encoding standard encompassing the many languages</br>
+
 
  
