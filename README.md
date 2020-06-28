@@ -18,24 +18,24 @@
 2. Headlines element,  `<h1>Content.........</h1>` -> There are six headline tags `<h1>,<h2>,<h3>,<h4>,<h5>,<h6>` -> `<h1>` is the biggest Example:https://github.com/brianblaze14/html-essential-training/blob/master/html/01_basic_syntax.htm
 
 3. Bold or Italics element, </br>
-&nbsp;&nbsp;&nbsp;&nbsp; `<i>` for Visual-only Italics</br>
-&nbsp;&nbsp;&nbsp;&nbsp; `<em>` Emphasis Italics</br>
-&nbsp;&nbsp;&nbsp;&nbsp; `<strong>` Importance, seriousness and urgency</br>
-&nbsp;&nbsp;&nbsp;&nbsp; `<b>` just bold example: https://github.com/brianblaze14/html-essential-training/blob/master/html/01_basic_syntax.htm</br>
+&nbsp;&nbsp;&nbsp;&nbsp; a) `<i>` for Visual-only Italics</br>
+&nbsp;&nbsp;&nbsp;&nbsp; b) `<em>` Emphasis Italics</br>
+&nbsp;&nbsp;&nbsp;&nbsp; c) `<strong>` Importance, seriousness and urgency</br>
+&nbsp;&nbsp;&nbsp;&nbsp; d) `<b>` just bold example: https://github.com/brianblaze14/html-essential-training/blob/master/html/01_basic_syntax.htm</br>
 
 4. Lists element,
-&nbsp;&nbsp;&nbsp;&nbsp;Types: </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unordered lists `<ul>` stands for list items -> Bulleting will occur https://github.com/brianblaze14/html-essential-training/blob/master/html/02_list.htm </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ordered Lists `<ol>` stands for list items -> Numbering will occur https://github.com/brianblaze14/html-essential-training/blob/master/html/02_list.htm </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Definition Lists `<dl>` example: https://github.com/brianblaze14/html-essential-training/blob/master/html/03_definition_list.htm
+
+&nbsp;&nbsp;&nbsp;&nbsp; a) Unordered lists `<ul>` stands for list items -> Bulleting will occur https://github.com/brianblaze14/html-essential-training/blob/master/html/02_list.htm </br>
+&nbsp;&nbsp;&nbsp;&nbsp; b) Ordered Lists `<ol>` stands for list items -> Numbering will occur https://github.com/brianblaze14/html-essential-training/blob/master/html/02_list.htm </br>
+&nbsp;&nbsp;&nbsp;&nbsp; c) Definition Lists `<dl>` example: https://github.com/brianblaze14/html-essential-training/blob/master/html/03_definition_list.htm
 </br>
 
 5. Date & Time element, example: https://github.com/brianblaze14/html-essential-training/blob/master/html/04_date_time.htm
 
 6. Quotes element </br>
-&nbsp;&nbsp;&nbsp;&nbsp; Inline Level element eg: `<q>`</br>
-&nbsp;&nbsp;&nbsp;&nbsp; Block Level elements eg: `<blockquote>`</br>
-&nbsp;&nbsp;&nbsp;&nbsp; Syntax example: https://github.com/brianblaze14/html-essential-training/blob/master/html/05_quotes.htm
+&nbsp;&nbsp;&nbsp;&nbsp; a) Inline Level element eg: `<q>`</br>
+&nbsp;&nbsp;&nbsp;&nbsp; b) Block Level elements eg: `<blockquote>`</br>
+&nbsp;&nbsp;&nbsp;&nbsp; c) Syntax example: https://github.com/brianblaze14/html-essential-training/blob/master/html/05_quotes.htm
 
 7. Code, pre, and br element, example: https://github.com/brianblaze14/html-essential-training/blob/master/html/06_code.htm
 
@@ -45,7 +45,20 @@
 
 10. Link element, example: https://github.com/brianblaze14/html-essential-training/tree/master/html/links
 
-11. Supporting languages lang element -> lang="en-US" American English, lang="en-GB" Brittan English, "color" vs. "colour" usage </br>
+11. Nav element, example: https://github.com/brianblaze14/html-essential-training/blob/master/html/navigation/01_nav.htm
+
+12. Breadcrumb element, example: https://github.com/brianblaze14/html-essential-training/blob/master/html/navigation/02_breadcrumbs.htm
+
+13. Images and graphics img srcset figure and figcaption elements and formats , example: https://github.com/brianblaze14/html-essential-training/tree/master/html/images_%26_graphics
+
+14. Global attribite, aria roles, formatting, &character, example: https://github.com/brianblaze14/html-essential-training/tree/master/html/power_of_html
+
+15. Audio element, example: https://github.com/brianblaze14/html-essential-training/tree/master/html/audio
+
+16. Video attributes, example: https://github.com/brianblaze14/html-essential-training/tree/master/html/video
+
+17. Supporting languages </br>
+&nbsp;&nbsp;&nbsp; lang element -> lang="en-US" American English, lang="en-GB" Brittan English, "color" vs. "colour" usage </br>
 &nbsp;&nbsp;&nbsp;&nbsp; lang attributes -> Langauage, Script, Attributes </br>
 &nbsp;&nbsp;&nbsp;&nbsp; dir attribute is the one used specifying the direction for text to be written </br>
 &nbsp;&nbsp;&nbsp;&nbsp; &lt;html lang="en-US"&gt; </br>
