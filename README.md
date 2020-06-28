@@ -61,4 +61,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp; lang attributes -> Langauage, Script, Attributes </br>
 &nbsp;&nbsp;&nbsp;&nbsp; example: https://github.com/brianblaze14/html-essential-training/blob/master/html/08_supporting_languages.htm
 
+18. Generic elements div and span, example: https://github.com/brianblaze14/html-essential-training/blob/master/html/09_generic_elements.htm
+
+## HTML Page development
+
+
  
