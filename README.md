@@ -80,7 +80,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) The link element: </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - It links to a range of other assets we want to load i.e css, fonts etc </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) The rel element: </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Tells the browser  whcih kind of asset it is
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - href is used to provide the URL to the asset
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Tells the browser  whcih kind of asset it is </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - href is used to provide the URL to the asset </br>
 &nbsp;&nbsp;&nbsp; c) The body element - Contains the information and content that will be displayed on the page
  
