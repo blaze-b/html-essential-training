@@ -97,12 +97,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6) aside - Marks content that is off to the side or not the main attraction
 
 - Form basics, example: https://github.com/brianblaze14/html-essential-training/blob/master/html_page/01_form_element.htm
-- Different types of form basic elements, examples: 
-- Tables basics, example: `<table>`,`<tr>`, `<th>`, `<td>`, example: 
+- Different types of form basic elements, examples: https://github.com/brianblaze14/html-essential-training/blob/master/html_page/02_more_on_form.htm
+- Tables basics, example: `<table>`,`<tr>`, `<th>`, `<td>`, example: https://github.com/brianblaze14/html-essential-training/blob/master/html_page/03_table.htm
  
 
 ## Websites to refer for the Web development: Specifications, Web Standards HTML 5
 - https://developer.mozilla.org/en-US/
 - https://html.spec.whatwg.org/
 - https://html.spec.whatwg.org/dev/#toc-semantics - dev version
-- Accessibilty websites: https://www.w3.org/WAI/standards-guidelines/wcag/
+- https://www.w3.org/WAI/standards-guidelines/wcag/ - web accessibility reference
